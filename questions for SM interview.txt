@@ -1,0 +1,28 @@
+1. Culture Fit 2. Real Experience 3. Common sense before being dogmatic
+
+Why are you interested in a position as Scrum Master / Team coach?
+As a Scrum Master, your team is constantly failing to meet commitments, and its performance velocity is volatile. What might the possible reasons be? How would you address this issue?
+What are the main metrics you use to measure team performance? With what metrics would you assess the value of a user story? What metrics would not be acceptable?
+Suppose you have a great developer (the most experience in the team), but with the command and control mindset, keep pointing people what to do, claiming about the work to be done. Finally, you perceive the team is not really in the vibe. What would be your approach?
+What would your teams talk about you in a retro about your performance as Scrum Master. I’m more interested in the pink/red post-its than the green ones, where you might have lots of kudos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
